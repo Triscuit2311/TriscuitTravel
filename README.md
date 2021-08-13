@@ -22,5 +22,5 @@ ensure TriscuitTravel
 ## Credits
 
 - Full credit for qtarget to [@thelindat](https://github.com/thelindat), [@OfficialNoms](https://github.com/OfficialNoms) and the folks over at [@QuantusRP](https://github.com/QuantusRP)
-- Creedit to [@brentN5]((https://github.com/brentN5) for BT-Target, the core of qtarget as well
+- Creedit to [@brentN5](https://github.com/brentN5) for BT-Target, the core of qtarget as well
 - Thanks to [@sciactive](https://github.com/sciactive) and [@Nick78111](https://github.com/Nick78111/) for pNotify and it's FiveM Implementation
