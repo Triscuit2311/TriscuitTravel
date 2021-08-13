@@ -17,7 +17,7 @@ Config = {
         driftMountain   = {     2784.58,    4587.81,    549.1,     6.86,        "Touge Peak"        , "TougePeak"           },
     },
 
-    -- Custom text options, for localization or general customization to fit the theme of your server.
+    -- Custom text options, for localization or general customization to fit the theme of your TriscuitTravel.server.
     CustomText = {
         TravelFromHubOptionPreface          =   "Fly to "                   ,   -- Shown before each location name in the menu like "Fly to The Drag Strip"
         TravelFromHubNotificationPreface    =   "You've Arrived at "        ,   -- Shown before each location name on the notification.
