@@ -21,5 +21,5 @@ ensure TriscuitTravel
 
 ## Credits
 
-- Full credit for all qtarget functionality to @thelindat and the folks over at @QuantusRP
-- Thanks to @sciactive and @Nick78111 for pNotify and it's FiveM Implementation
+- Full credit for all qtarget functionality to [@thelindat](https://github.com/thelindat), [@OfficialNoms](https://github.com/OfficialNoms) and the folks over at [@QuantusRP](https://github.com/QuantusRP)
+- Thanks to [@sciactive](https://github.com/sciactive) and [@Nick78111](https://github.com/Nick78111/) for pNotify and it's FiveM Implementation
