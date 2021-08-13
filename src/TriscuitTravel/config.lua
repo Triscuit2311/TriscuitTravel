@@ -11,10 +11,10 @@ Config = {
 
     -- List of locations availiable from the travel hub
     Locations = {
-        -- Name         = {     X Coord,    Y Coord,    Z Coord,    Heading,    "Display Name"      , "UniqueIdentifier"    },
-        nurburgring     = {     3670.66,    -6528.32,   2191,     154.03,     "Nürburgring Full"  , "NurburgringFull"     },
-        dragstrip       = {     1742.46,    3288.27,    41.19,      139.22,     "The Drag Strip"    , "DragStrip"           },
-        driftMountain   = {     2784.58,    4587.81,    549.1,     6.86,        "Touge Peak"        , "TougePeak"           },
+        -- Name         = {     X Coord,    Y Coord,    Z Coord,    Heading,    "Display Name"          , "UniqueIdentifier"    },
+        garagedocks     = {     816.49,     -3234.07,   6.09,       266.97,     "garage at the docks"   , "DocksGarage"         },
+        sandystrip      = {     1742.46,    3288.27,    41.19,      139.22,     "Sandy Shores Airfield" , "SSAirStrip"          },
+        pierend         = {     -1840.33,   -1213.12,   13.02,      153.72,     "the end of the pier"   , "PierEnd"             },
     },
 
     -- Custom text options, for localization or general customization to fit the theme of your TriscuitTravel.server.
