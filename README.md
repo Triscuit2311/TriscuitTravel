@@ -18,3 +18,8 @@ TriscuitTravel was built using ESX, and uses the qtarget menu framework.
 ensure TriscuitTravel
 ```
 - Go into  .../resources/TriscuitTravel/config.lua and setup the locations you want for your hub and travel spots etc.
+
+## Credits
+
+- Full credit for all qtarget functionality to @thelindat and the folks over at @QuantusRP
+- Thanks to @sciactive and @Nick78111 for pNotify and it's FiveM Implementation
