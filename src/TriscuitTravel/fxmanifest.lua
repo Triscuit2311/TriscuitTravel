@@ -8,6 +8,6 @@ server_scripts {
 }
 
 client_scripts {
-	'client/main.lua',
+	'TriscuitTravel.client/main.lua',
 	'config.lua'
 }
